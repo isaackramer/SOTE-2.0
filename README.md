@@ -4,7 +4,7 @@ The code contained in this repository corresponds to the SOTE 2.0 model, as desc
 
 This code can be used to study the risk of soil degradation (as measured by changes in saturated hydraulic conductivity, $K_s$) for soils with different weight functions. The code also compares the risk computed using weight functions to that computed using the McNeal function (McNeal, 1968).
 
-For more information regarding the default SOTE 2.0 code, as contained in this repository, users are referred to section 3.1.1 of Kramer et. al. (2022). 
+For more information regarding the default SOTE 2.0 code, as contained in this repository, users are referred to section 3.1.1 of Kramer et al. (2022). 
 
 1. In order to run the code, execute run_SOTE.py
 
